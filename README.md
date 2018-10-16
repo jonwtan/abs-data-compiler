@@ -1,6 +1,5 @@
 # abs-data-compiler
 Produces a CSV file with aggregated statistical data from input statistical area datafiles from the Australian Bureau of Statistics 
-Python compiler for aggreggating specific data from the Australian Bureau of Statistics (ABS) .csv datafiles of statistical areas.
 by J. Tan
 
 The ABS provides CSV datafiles for almost every local statistical area, with a rich amount of data. Statistics include population by age, gender, total population, number of businesses, income, and over several hundred fields for particular years too numerous to list.
